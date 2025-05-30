@@ -15,7 +15,7 @@ This project analyzes the Financial Position of State Bank of India (SBI) over f
 - Evaluation of Working Capital
 - Observational Analysis of the various SBI's Offerings and Determination of its Growth Rate
 ## Data Analysis
-The detailed data analysis, including visualizations, trend assessments, and other analysis, is available in the GitHub repository.
+The detailed data analysis, including visualizations, trend assessments, and other analysis, is available in the [GitHub repository](https://github.com/karunyakathir77/Analysis_of_Financial_Position_and_its_Offerings/blob/b1fc7af4bde9950a83a43c1743b8cb838fc951c6/Analysis%20of%20Financial%20Position%20and%20its%20Offerings.pdf)
 ## Findings
 * Total Liabilities and Assets showed consistent growth from 2018-19 to 2022-23, reflecting SBI’s financial resilience and strong strategic planning.
 * SBI consistently outperformed ICICI across key financial metrics from FY 2018-19 to FY 2022-23, reinforcing its market leadership and financial strength.
